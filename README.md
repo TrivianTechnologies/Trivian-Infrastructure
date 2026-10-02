@@ -3,9 +3,11 @@
 > **Core Infrastructure Repository for the Trivian Technologies Ecosystem**
 
 [![Status: Early Development](https://img.shields.io/badge/Status-Early%20Development-orange.svg)]()
-[![Organization: Trivian Technologies](https://img.shields.io/badge/Org-Trivian%20Technologies-blue.svg)](https://github.com/Trivian-Technologies)
+[![Organization: Trivian Technologies](https://img.shields.io/badge/Org-Trivian%20Technologies-blue.svg)](https://github.com/TrivianTechnologies)
 
 ---
+
+**Status: PLANNED.** This repository contains design documentation for future infrastructure; it does not provide a deployable implementation.
 
 ## Overview
 
@@ -67,6 +69,12 @@ Follow [@TrivianOS](https://x.com/TrivianOS) and the [Trivian Technologies Linke
 
 ## Organization
 
-Part of the [Trivian Technologies](https://github.com/Trivian-Technologies) organization.
+Part of the [Trivian Technologies](https://github.com/TrivianTechnologies) organization.
 
 **Website:** [triviantech.com](https://triviantech.com) | **X:** [@TrivianOS](https://x.com/TrivianOS) | **LinkedIn:** [Trivian Technologies](https://www.linkedin.com/company/awakening-the-architect)
+
+## Research lineage and current home
+
+Originator: Sarasha Elion. This work draws on architecture originated and cultivated through Trivian Institute. Trivian Technologies is the current engineering and commercial-development home. Repository stewardship does not establish ownership of all underlying IP; the intended founder IP assignment is pending, and contributor and third-party rights remain applicable.
+
+For technical and ecosystem inquiries: node@triviantech.com. No repository-level license file is currently specified; this description does not grant additional rights.
